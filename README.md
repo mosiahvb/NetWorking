@@ -33,7 +33,6 @@ I used VS code, and the Python programming language to create the chat room. I i
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I want to add more personalized version, allowing the clients to give them self a name and four messages to be saved and revisited as chats continue overtime.
 * I had some difficulty understanding and applying encryption to secure messages back-and-forth and would like to dive deeper into it and add a secure end-to-end encryption to the chat.
 * I want to increase the visuals of this chat by connecting it, or adding it to an application to give it an aesthetic and more usable look and platform.
