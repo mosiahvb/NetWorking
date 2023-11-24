@@ -8,7 +8,7 @@ I was able to create this program through trial and error, and watching a variet
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (you will need to show two pieces of software running and communicating with each other) and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Chat room demo](https://youtu.be/COW6UAOjrCw)
 
 # Network Communication
 
